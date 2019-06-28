@@ -1,4 +1,4 @@
-# springboot_mongoDb_web_REST
+# Sprintboot + Thymeleaf + MongoDB + REST + Gradlew
 This is springboot , thymeleaf CRUD implementation which uses mongo as backend. This project has both UI and REST entry points.
 This project is built on gradlew.
 
